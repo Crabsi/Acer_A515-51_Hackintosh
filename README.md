@@ -12,7 +12,8 @@ What works:<br>
 ☑️ Screen Brightness<br>
 ☑️ Sleep<br>
 ☑️ USB<br>
-☑️ Probably much more that I can't think of right now
+☑️ Probably much more that I can't think of right now<br>
+☑️ WiFi, Bluetooth, Handoff, Sidecar etc. (only because I replaced the Atheros card with a natively supported BCM94360NG card.)
 
 What doesn't work:<br>
 ❌ Battery Readout<br>
