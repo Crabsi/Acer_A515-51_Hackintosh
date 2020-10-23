@@ -1,6 +1,6 @@
 # Acer A515-51 Hackintosh
 
-This Hackintosh currently runs on macOS Catalina 10.15.7 and OpenCore 0.6.2
+This Hackintosh currently runs on macOS Catalina 10.15.7 and OpenCore 0.6.2.
 
 This repo includes all necessary files to get up and running with OpenCore on an Acer A515-51 Laptop (and likely any other with similar specifications).
 
