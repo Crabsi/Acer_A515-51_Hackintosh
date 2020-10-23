@@ -18,4 +18,4 @@ What works:<br>
 What doesn't work:<br>
 ❌ Battery Readout<br>
 ❌ I2C Touchpad<br>
-❌ Card Reader<br>
+❌ SD-Card Reader
