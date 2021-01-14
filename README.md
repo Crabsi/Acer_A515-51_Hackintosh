@@ -18,5 +18,5 @@ What works:<br>
 ☑️ WiFi, Bluetooth, Handoff, Sidecar etc. (only because I replaced the Atheros card with a natively supported BCM94360NG card.)
 
 What doesn't work:<br>
-❌ Brightness Function Keys (are not in the right place)
+❌ Brightness Function Keys (are not in the right place)<br>
 ❌ SD-Card Reader
