@@ -1040,7 +1040,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02938300QXHWVPAD</string>
+			<string>PUT YOUR MLB HERE</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1052,7 +1052,7 @@
 			<key>SystemSerialNumber</key>
 			<string>PUT YOUR SERIAL NUMBER HERE</string>
 			<key>SystemUUID</key>
-			<string>1CC87AB2-2DF0-4C0B-8D47-1329C61C0283</string>
+			<string>PUT YOUR SYSTEM-UUID HERE</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
